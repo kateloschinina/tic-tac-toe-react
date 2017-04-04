@@ -20,7 +20,6 @@ class App extends Component {
 }
 
 // ========================================
-// https://facebook.github.io/react/tutorial/tutorial.html
 
 function Square(props) {
   return (
